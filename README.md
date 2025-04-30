@@ -1,7 +1,7 @@
 # AyED
-Nombre: Eric Nair
-Apellido: Aponte
-Comision: K1202
+ Eric Nair
+Aponte
+ K1202 
 g++ --version:
 g++.exe (Rev3, Built by MSYS2 project) 14.2.0
 Copyright (C) 2024 Free Software Foundation, Inc.
